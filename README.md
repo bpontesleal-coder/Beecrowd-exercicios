@@ -1,2 +1,9 @@
 # Beecrowd-exercicios
-Uso o beecrowd para exercitar lógica e praticar as linguagens que me interesso.
+
+Repositório com exercícios resolvidos para treinar lógica de programação e linguagens que desejo evoluir.
+
+---
+
+## 📂 Estrutura
+- Iniciante  
+- Intermediário  
